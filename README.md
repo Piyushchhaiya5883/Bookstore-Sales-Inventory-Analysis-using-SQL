@@ -4,6 +4,7 @@ A SQL-based data analysis project focused on exploring book sales, customer beha
 
 This project demonstrates practical SQL skills such as filtering, sorting, aggregation, joins, GROUP BY, HAVING, DISTINCT, COALESCE, TOP, and business-oriented analysis.
 
+
 ## 🎯 Project Overview
 
 The goal of this project is to analyze bookstore data and answer common business questions related to:
@@ -60,6 +61,7 @@ bookstore-sales-inventory-analysis-sql/
 ## 👨‍💻 Skills Highlighted
 
 SQL Server | Data Analysis | Data Cleaning & Exploration | Joins | Aggregations | Business Analysis | Inventory Analysis | Sales Analysis | Customer Analysis
+
 
 ## ⭐ Project Purpose
 

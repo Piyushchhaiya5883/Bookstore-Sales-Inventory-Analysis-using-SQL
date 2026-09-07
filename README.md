@@ -24,94 +24,6 @@ The goal of this project is to analyze bookstore data and answer common business
 
 The analysis is performed using SQL Server.
 
-## 🗂️ Dataset
-
-The project contains three CSV datasets:
-
-Dataset
-
-Records
-
-Description
-
-Books.csv
-
-500
-
-Book details, genre, author, price, publication year, and stock
-
-Customers.csv
-
-500
-
-Customer information including name, email, city, and country
-
-Orders.csv
-
-500
-
-Order details including customer, book, date, quantity, and total amount
-
-Tables
-
-Books
-
-Book_ID
-
-Title
-
-Author
-
-Genre
-
-Published_Year
-
-Price
-
-Stock
-
-Customers
-
-Customer_ID
-
-Name
-
-Email
-
-Phone
-
-City
-
-Country
-
-Orders
-
-Order_ID
-
-Customer_ID
-
-Book_ID
-
-Order_Date
-
-Quantity
-
-Total_Amount
-
-## 🔗 Data Relationships
-
-Customers
-    │
-    │ Customer_ID
-    ▼
- Orders ───────── Book_ID ─────────► Books
-
-One customer can place multiple orders.
-
-A book can appear in multiple orders.
-
-Orders acts as the main transactional table connecting customers and books.
-
 
 ## 🚀 How to Run the Project
 
@@ -138,6 +50,7 @@ Import the three CSV files into their corresponding tables using the SQL Server 
 5. Run the SQL queries
 
 Open Project.sql and execute the queries section by section.
+
 
 ## 📁 Repository Structure
 

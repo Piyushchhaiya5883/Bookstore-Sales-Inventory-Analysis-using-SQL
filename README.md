@@ -9,17 +9,11 @@ This project demonstrates practical SQL skills such as filtering, sorting, aggre
 The goal of this project is to analyze bookstore data and answer common business questions related to:
 
 - 📖 Book catalog and genres
-
 - 📦 Inventory and remaining stock
-
 - 🛒 Customer orders and purchase quantities
-
 - 💰 Revenue and customer spending
-
 - 👥 Customer ordering behavior
-
 - ⭐ Best-selling and high-value books
-
 - 📊 Genre-level sales performance
 
 The analysis is performed using SQL Server.

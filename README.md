@@ -61,10 +61,3 @@ bookstore-sales-inventory-analysis-sql/
 ## 👨‍💻 Skills Highlighted
 
 SQL Server | Data Analysis | Data Cleaning & Exploration | Joins | Aggregations | Business Analysis | Inventory Analysis | Sales Analysis | Customer Analysis
-
-
-## ⭐ Project Purpose
-
-This project was created to strengthen practical SQL and data analysis skills by working with a relational bookstore dataset and solving business-oriented analytical questions.
-
-If you find this project useful, consider giving the repository a ⭐.
